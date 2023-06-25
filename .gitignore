@@ -1,0 +1,5 @@
+# All backup files
+**/**.bak
+
+# VS Code files
+.vscode/
